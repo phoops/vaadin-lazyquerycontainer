@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.vaadin.addons.lazyquerycontainer</groupId>
         <artifactId>vaadin-lazyquerycontainer-root</artifactId>
-        <version>8.0.0.0-SNAPSHOT</version>
+        <version>8.0.0.0-PHOOPS</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
